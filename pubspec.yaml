@@ -1,7 +1,7 @@
 name: reorderable_griditem_view
 description: A new flutter plugin project.
 version: 0.0.1
-homepage: 
+homepage: https://github.com/haveAbook0or7/reorderable_gridview
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -10,6 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  async: ^2.6.1
 
 dev_dependencies:
   flutter_test:
